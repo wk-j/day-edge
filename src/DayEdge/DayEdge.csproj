@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <PackageId>wk.DayEdge</PackageId>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+</Project>
